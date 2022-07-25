@@ -1,1 +1,75 @@
-# test-website-1
+<!doctype html><html lang="en"><head><style>body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+}
+
+img {
+width: 300px;
+margin-top: 20px;
+}
+
+.lmao {
+font-size: 10px;
+margin-top: 30px;
+  font-weight: bold;
+  margin-bottom: 0;
+  font-style: Trebuchet Mc;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.andria {
+font-size: 8px;
+  padding-top: 0px;
+  padding-left: 0px;
+  margin-bottom: 0;
+  border: black solid;
+  border-left: 0;
+  border-right: 0;
+}
+
+input {
+border: solid;
+  border-color: white;
+  border-radius: 0 0 0 0; 
+  padding-right: 130px;
+  margin-top: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+button {
+color: white;
+  border: red solid;
+  background-color: red;
+  border-radius: 2px 2px 2px 2px;
+  padding: 4px;
+  margin-top: 10px;
+}
+</style></head><body><!doctype html>
+<html lang="en">
+
+<head>
+  <title> Netflix - Home </title>
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png">
+  <br>
+  <h1 class="lmao"> Unlimited movies, TV
+    <br> shows, and more.
+  </h1>
+  <br>
+  <p class="andria"> Watch anywhere. Cancel anytime. </p>
+  <br>
+  <p class="andria"> Ready to watch? Enter your email to <br> create or restart your membership.</p>
+  <br>
+  <input type="text" placeholder="Email adress">
+  <br>
+  <button> Get Started > </button>
+</body>
+
+</html><script type="text/javascript"></script></body></html>
